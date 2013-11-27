@@ -20,32 +20,12 @@
 	<key>Options</key>
 	<array>
 		<dict>
-			<key>Description</key>
-			<string>Name of the unit test class to create</string>
-			<key>Identifier</key>
-			<string>productName</string>
-			<key>Name</key>
-			<string>Class</string>
-			<key>NotPersisted</key>
-			<string>Yes</string>
-			<key>Required</key>
-			<string>Yes</string>
-			<key>Type</key>
-			<string>text</string>
-		</dict>
-		<dict>
-			<key>Default</key>
-			<string>MemriseBaseSpec</string>
-			<key>Description</key>
-			<string>Unit test class that the new class will be a subclass of</string>
-			<key>Identifier</key>
-			<string>testSubclass</string>
-			<key>Name</key>
-			<string>Subclass of</string>
-			<key>Required</key>
-			<string>Yes</string>
-			<key>Type</key>
-			<string>class</string>
+			<key>Description</key>		<string>Name of the unit test class to create</string>
+			<key>Identifier</key>		<string>productName</string>
+			<key>Name</key>				<string>Class</string>
+			<key>NotPersisted</key>		<string>Yes</string>
+			<key>Required</key>			<string>Yes</string>
+			<key>Type</key>				<string>text</string>
 		</dict>
 	</array>
 	<key>Platforms</key>
