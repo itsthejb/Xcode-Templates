@@ -22,7 +22,7 @@
 		<dict>
 			<key>Description</key>		<string>Name of the unit test class to create</string>
 			<key>Identifier</key>		<string>productName</string>
-			<key>Name</key>				<string>Class</string>
+			<key>Name</key>				<string>Spec Name</string>
 			<key>NotPersisted</key>		<string>Yes</string>
 			<key>Required</key>			<string>Yes</string>
 			<key>Type</key>				<string>text</string>
