@@ -6,8 +6,6 @@
 //___COPYRIGHT___
 //
 
-#import "MemriseBaseSpec.h"
-
 SpecBegin(___FILEBASENAMEASIDENTIFIER___)
 
 describe(@"<#name#>", ^{
