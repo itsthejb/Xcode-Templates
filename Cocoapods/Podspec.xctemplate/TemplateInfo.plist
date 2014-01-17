@@ -30,6 +30,7 @@
 	<key>Platforms</key>
 	<array>
 		<string>com.apple.platform.iphoneos</string>
+		<string>com.apple.platform.osx</string>
 	</array>
 	<key>Summary</key>
 	<string>Cocoapods.org podspec definition</string>
