@@ -29,9 +29,9 @@
 			<key>Name</key>
 				<string>Platform</string>
 			<key>NotPersisted</key>
-				<string>Yes</string>
+				<string>No</string>
 			<key>Required</key>
-				<string>Yes</string>
+				<string>No</string>
 			<key>Type</key>
 				<string>text</string>
 			<key>Type</key>				
@@ -45,6 +45,22 @@
 				</array>				
 				-->
 		</dict>
+			<dict>
+				<key>Description</key>
+					<string>Minimum platform deployment target</string>
+				<key>Identifier</key>
+					<string>version</string>
+				<key>Name</key>
+					<string>Version</string>
+				<key>NotPersisted</key>
+					<string>No</string>
+				<key>Required</key>
+					<string>No</string>
+				<key>Type</key>
+					<string>text</string>
+				<key>Type</key>				
+					<string>text</string>
+			</dict>
 	</array>
 </dict>
 </plist>

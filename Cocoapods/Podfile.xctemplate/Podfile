@@ -1,4 +1,4 @@
-platform :___VARIABLE_platform___, '7.0'
+platform :___VARIABLE_platform___, '___VARIABLE_version___'
 
 target :___PROJECTNAME___, :exclusive => true do
 end
