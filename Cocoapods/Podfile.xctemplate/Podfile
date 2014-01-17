@@ -1,0 +1,9 @@
+platform :___VARIABLE_platform___, '7.0'
+
+target :___PROJECTNAME___, :exclusive => true do
+end
+
+target :___PROJECTNAME___Tests, :exclusive => true do
+end
+
+inhibit_all_warnings!

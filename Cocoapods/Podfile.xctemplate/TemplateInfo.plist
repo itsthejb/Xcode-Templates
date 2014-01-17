@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildableType</key>
+	<string>None</string>
+	<key>DefaultCompletionName</key>
+	<string>Podfile</string>
+	<key>Description</key>
+	<string>Cocoapods.org Podfile.</string>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>MainTemplateFile</key>
+	<string>Podfile</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.osx</string>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+	<key>Summary</key>
+	<string>Cocoapods.org Podfile.</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Description</key>
+				<string>iOS or OS X</string>
+			<key>Identifier</key>
+				<string>platform</string>
+			<key>Name</key>
+				<string>Platform</string>
+			<key>NotPersisted</key>
+				<string>Yes</string>
+			<key>Required</key>
+				<string>Yes</string>
+			<key>Type</key>
+				<string>text</string>
+			<key>Type</key>				
+				<string>text</string>
+			<key>Default</key>
+				<string>ios</string>
+<!--			<key>Values</key>           
+				<array>
+					<string>ios</string>
+					<string>osx</string>
+				</array>				
+				-->
+		</dict>
+	</array>
+</dict>
+</plist>
