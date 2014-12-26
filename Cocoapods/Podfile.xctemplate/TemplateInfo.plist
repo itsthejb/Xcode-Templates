@@ -23,44 +23,34 @@
 	<array>
 		<dict>
 			<key>Description</key>
-				<string>iOS or OS X</string>
+			<string>iOS (ios) or OS X (osx)</string>
 			<key>Identifier</key>
-				<string>platform</string>
+			<string>platform</string>
 			<key>Name</key>
-				<string>Platform</string>
+			<string>Platform</string>
 			<key>NotPersisted</key>
-				<string>No</string>
+			<string>No</string>
 			<key>Required</key>
-				<string>No</string>
+			<string>No</string>
 			<key>Type</key>
-				<string>text</string>
-			<key>Type</key>				
-				<string>text</string>
+			<string>text</string>
 			<key>Default</key>
-				<string>ios</string>
-<!--			<key>Values</key>           
-				<array>
-					<string>ios</string>
-					<string>osx</string>
-				</array>				
-				-->
+			<string>ios</string>
 		</dict>
-			<dict>
-				<key>Description</key>
-					<string>Minimum platform deployment target</string>
-				<key>Identifier</key>
-					<string>version</string>
-				<key>Name</key>
-					<string>Version</string>
-				<key>NotPersisted</key>
-					<string>No</string>
-				<key>Required</key>
-					<string>No</string>
-				<key>Type</key>
-					<string>text</string>
-				<key>Type</key>				
-					<string>text</string>
-			</dict>
+		<dict>
+			<key>Description</key>
+			<string>Minimum platform deployment target</string>
+			<key>Identifier</key>
+			<string>version</string>
+			<key>Name</key>
+			<string>Version</string>
+			<key>NotPersisted</key>
+			<string>No</string>
+			<key>Required</key>
+			<string>No</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
 	</array>
 </dict>
 </plist>
