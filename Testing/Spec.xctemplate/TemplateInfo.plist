@@ -16,7 +16,7 @@
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
-	<string>___FILEBASENAME___Specs.m</string>
+	<string>___FILEBASENAME___.m</string>
 	<key>Options</key>
 	<array>
 		<dict>
