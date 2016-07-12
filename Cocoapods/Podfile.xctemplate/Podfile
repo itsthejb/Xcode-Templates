@@ -9,3 +9,4 @@ pod '<#pod name#>'
 #end
 
 inhibit_all_warnings!
+use_frameworks!
