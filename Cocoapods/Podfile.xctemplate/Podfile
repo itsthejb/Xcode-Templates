@@ -1,11 +1,9 @@
 platform :___VARIABLE_platform___, '___VARIABLE_version___'
 
-pod '<#pod name#>'
-
-#target :___PROJECTNAME___, :exclusive => true do
+#target :___PROJECTNAME___ do
 #end
 
-#target :___PROJECTNAME___Tests, :exclusive => true do
+#target :___PROJECTNAME___Tests do
 #end
 
 inhibit_all_warnings!
