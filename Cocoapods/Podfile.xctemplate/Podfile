@@ -1,10 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
 platform :___VARIABLE_platform___, '___VARIABLE_version___'
 
-#target :___PROJECTNAME___ do
-#end
+abstract_target 'App' do
+  target :___PROJECTNAME___
 
-#target :___PROJECTNAME___Tests do
-#end
+  target :___PROJECTNAME___Tests do
+  end
+end
 
 inhibit_all_warnings!
 use_frameworks!
