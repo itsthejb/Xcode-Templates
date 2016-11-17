@@ -1,8 +1,8 @@
 import Quick
 
 class ___FILEBASENAMEASIDENTIFIER___: QuickConfiguration {
-    override class func configure(configuration: Configuration) {
+  override class func configure(configuration: Configuration) {
 
-    }
+  }
 }
 
